@@ -4,13 +4,15 @@
 
 1.
 
-```cd front-end
+```
+    cd front-end
 
 ```
 
 2.
 
-```npm install
+```
+    npm install
 
 ```
 
@@ -22,17 +24,19 @@
 
 4. Navigate to localhost:3000 from your browser
 
-## Starting the Express Backend Servrr
+## Starting the Express Backend Server
 
 1.
 
-```cd back-end
+```
+    cd back-end
 
 ```
 
 2.
 
-```npm install
+```
+    npm install
 
 ```
 

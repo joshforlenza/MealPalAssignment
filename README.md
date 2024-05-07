@@ -4,23 +4,21 @@
 
 1.
 
-```
-    cd front-end
-
-```
+```bash
+ cd front-end
+ ```
 
 2.
 
-```
-    npm install
-
-```
+```bash
+ npm install
+ ```
 
 3.
 
-```
-    npm run dev
-```
+```bash
+ npm run dev
+ ```
 
 4. Navigate to localhost:3000 from your browser
 
@@ -28,20 +26,18 @@
 
 1.
 
-```
-    cd back-end
-
-```
+```bash
+ cd back-end
+ ```
 
 2.
 
-```
-    npm install
-
-```
+```bash
+ npm install
+ ```
 
 3.
 
-```
-    node server.js
-```
+```bash
+ node server.js
+ ```
